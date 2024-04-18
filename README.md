@@ -28,7 +28,7 @@ Successful keywords will be stored in the MSF credentials list with, or in the M
 
 This module is versatile:
 - **Directory Brute Forcing**: Set the injection point in the URI specified in the `TARGETURI` setting.
-- **Credential Guessing**: This module comes to offer more flexibility than "HTTP Login Utility" provided by hdm <x@hdm.io>, by providing true multi-threading, which is beneficial for extensive brute force attacks on a single target.
+- **Credential Guessing**: This module comes to offer more flexibility than "HTTP Login Utility" provided by hdm.io, by providing true multi-threading, which is beneficial for extensive brute force attacks on a single target.
 - **DDoS**: This module can be used as well to load heavy endpoints in bulk and create denial of service.
 
 ## Useful Links
